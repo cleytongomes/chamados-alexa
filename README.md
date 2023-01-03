@@ -1,2 +1,2 @@
 # Abertura de chamados via Alexa
-Criação de chamados/oredens de serviço através da assistente Alexa
+Criação de chamados/ordens de serviço através da assistente Alexa
